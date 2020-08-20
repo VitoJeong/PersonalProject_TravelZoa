@@ -1,0 +1,97 @@
+@CHARSET "EUC-KR";
+*{
+	color: #f78d00;
+	font-family: poppins-extralight,poppins,sans-serif;
+}
+article{
+	padding: 30px;
+	margin-top: 40px;
+	min-height: 650px;
+}
+label{
+	width: 124px;
+	display: inline-block;
+	margin-bottom: 8px;
+}
+
+h1 {
+	margin-bottom: 20px;
+}
+
+fieldset label {
+	color: #013f07;
+}
+
+#buttons{
+	float: right;
+	margin: 20px;
+}
+
+#buttons>*{
+	margin: 2px 2px;
+    width: 70px;
+    height: 30px;
+    color: #fff;
+    background-color: #79A73A;
+    border: 0;
+    border-radius: 3px;
+}
+
+#delete {
+	background-color: #013f07;
+}
+#delete:HOVER {
+	color: #f78d00;
+}
+
+.address{
+	color: 	#79A73A;
+}
+
+#login_wrap{
+	margin-top : 170px;
+}
+#dForm>*, #login>*{
+	margin-left: 40px;
+}
+
+.boardName {
+	margin-left: 300px;	
+}
+
+input, span, textarea, th{
+	color: #000;
+	margin-bottom: 5px;
+}
+
+#buttons input:HOVER {
+	cursor: pointer;
+}
+
+.btn:HOVER{
+	cursor: pointer;
+}
+#fsDelete {
+	height: 50px;
+	padding-top: 30px;
+	padding-left: 20px;
+}
+
+#fieldsetMail input{
+	width: 417px;
+	height: 20px;
+}
+
+#labelContent {
+	vertical-align: top;
+}
+
+#usableID, #chkPw, #chkPw2{
+	margin-left: 130px;
+	padding:0;
+	font-size: 0.8em;
+}
+
+.checkResult{
+	margin-bottom:4px;
+}

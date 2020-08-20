@@ -1,0 +1,102 @@
+@CHARSET "EUC-KR";
+
+table {
+	margin: 0 auto;
+	border-spacing: 0;
+}
+
+td{
+	border-bottom : 0.5px solid black;
+	font-weight: normal;
+	text-align: center;
+	color: #000;
+	margin: 0;
+}
+th {
+	font-weight: bold;
+	font-size: 1.2em;
+	background-color: #79A73A;
+	color: #fff;
+}
+
+.reply{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.wrapReply{
+	width: 764px;
+	margin: 10px auto;
+}
+
+.replyTable tr td{
+	border-bottom: 1px solid #c0c0c0;
+}
+
+.replyC{
+	width: 764px;
+	text-align: left;
+	height: 28px;
+}
+
+#replyEmpty td{
+	border: none;
+}
+#formReply{
+	margin: 0;
+}
+
+.replyInput{
+	width: 764px;
+	margin: 0;
+}
+.replyInput td{
+	background-color: #ebebeb;
+	height: 50px;
+}
+.replyInput>tr>td>*{
+	vertical-align: middle;
+}
+.tdId{width: 100px;
+	padding-bottom: 4px;
+	font-weight: bold;
+}
+.contentLabel {
+	margin: 0;
+	padding: 0;
+}
+.contentLabel *{
+	margin: 0;
+}
+.contentLabel>input{
+	height: 30px;
+	width: 500px;
+}
+
+.cLabel{width: 50px;
+color: #000;}
+.button{padding-bottom: 3px;}
+.btnReply{
+	height: 30px;
+	color: #fff;
+	background-color: #79A73A;
+	border: 0;
+	border-radius: 3px;
+}
+
+.btnDelete{
+	margin : 2px 2px;
+	float:right;
+	width:67px;
+	height: 24px;
+    color: #fff;
+    background-color: #79A73A;
+    border: 0;
+    border-radius: 3px;
+}
+
+.contentId{
+	width: 100px;
+    font-weight: bold;
+    padding-left: 6px;
+}

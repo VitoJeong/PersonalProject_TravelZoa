@@ -1,0 +1,14 @@
+@CHARSET "EUC-KR";
+.welcome{
+	height:880px;
+	background-image: url("../images/Country1.jpg");
+	background-size: cover;
+	padding: 120px;
+	overflow: hidden;
+}
+
+.welcome>h1{
+	color: #f78d00;
+	font-size: 7em;
+}
+

@@ -1,0 +1,151 @@
+@CHARSET "EUC-KR";
+
+table {
+	margin: 0 auto;
+	border-spacing: 0;
+}
+
+td{
+	border-bottom : 0.5px solid black;
+	font-weight: normal;
+	text-align: center;
+	color: #000;
+	margin: 0;
+}
+.left{
+	text-align: left;
+}
+th {
+	font-weight: bold;
+	font-size: 1.2em;
+	background-color: #79A73A;
+	color: #fff;
+}
+
+.tno, .tread{
+	width: 70px;
+}
+
+.twriter, .tt {
+	width: 80px;
+	font-weight: bold;
+	font-size: 1.2em;
+	background-color: #79A73A;
+	color: #fff;
+}
+.tc {
+	width: 50px;
+	font-weight: bold;
+	font-size: 0.7em;
+	color: #7c7c7c;
+	border-left: 0.5px solid #6a6a6a;
+}
+
+.cDate {
+	width: 80px;
+	font-weight: bold;
+	font-size: 0.7em;
+	color: #7c7c7c;
+}
+
+.tCount {
+	width: 30px;
+	font-weight: bold;
+	font-size: 0.7em;
+	color: #7c7c7c;
+}
+
+.tID {
+	width: 160px;
+	font-weight: bold;
+	font-size: 1.2em;
+	background-color: #79A73A;
+	color: #fff;
+}
+
+#contentID {
+	width: 300px;
+	color: #000;
+}
+
+.ttitle {
+	width: 450px;
+}
+
+.btn {
+	float: right;
+	margin-bottom: 10px;
+	width: 80px;
+	height: 30px;
+}
+
+#table_search{
+	float:left;
+	margin: 30px 19%;
+}
+
+#table_search .btn {
+	margin-right: 10px;
+}
+
+#table_search input {
+	height: 30px;
+}
+
+#btnWrite {
+	float:right;
+	margin: 30px 19%;
+}
+.input_box {
+	height: 24px;
+}
+
+#page_control a{
+	color: #000;
+	margin : 10px auto;
+	font-weight: bold;
+}
+
+#page_control a:VISITED{
+	color: #000;
+	margin : 10px auto;
+	font-weight: bold;
+}
+#page_control {
+	margin : 10px auto;
+	text-align: center;
+}
+#tContent {
+	width: 596px;
+}
+#tContent {
+	text-align: left;
+	vertical-align: top;
+}
+.clear {
+	clear: both;
+}
+
+#notice input{
+	height: 30px;
+	width: 596px;
+	margin-bottom: 0;
+}
+
+#download span:HOVER {
+	color : #f78d00;
+}
+
+#reCount{
+	margin-left: 15px;
+	color: #c0c0c0;
+	font-size: 0.7em;
+}
+
+.image_container img{
+	
+	width: 200px;
+}
+
+
+
