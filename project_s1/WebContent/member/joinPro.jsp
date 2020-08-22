@@ -56,7 +56,7 @@
 			memberDAO.insertMember(m);
 	
 	// 5. 회원가입에 성공하면 login.jsp를 재요청(포워딩)하여 보여주기
-	response.sendRedirect("login.jsp");
+	response.sendRedirect("welcome.jsp");
 			
 %>    
     

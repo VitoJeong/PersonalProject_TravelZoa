@@ -78,6 +78,8 @@
 			String reCount = Integer.toString(redao.getReplyCount(beanNum));
 			if(reCount.equals("0")){
 				reCount = "";
+			}else {
+				reCount = "["+reCount+"]";
 			}
 %>
 	<tr onclick="location.href='content.jsp?num=<%=beanNum%>&pageNum=<%=pageNum%>'"

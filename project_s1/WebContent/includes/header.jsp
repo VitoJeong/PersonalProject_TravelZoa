@@ -59,7 +59,7 @@
 			// 로그인을 했을때의 화면으로 logout링크가 나타나오록
 	%>
 	<div class="log">
-		<a href="../member/modify.jsp"><span>My Page</span></a>
+		<a href="../member/myPage.jsp"><span>My Page</span></a>
 		<a href="../member/logout.jsp" onclick="return confirm('로그아웃 하시겠습니까?');"><span>logout</span></a>
 	</div>
 	</div>
