@@ -54,6 +54,7 @@
 * `KAKAO 우편번호 API`를 활용하여 주소 찾기 구현.
 <img src="https://user-images.githubusercontent.com/63029576/95654937-a3dd4f80-0b3e-11eb-818a-8acd015da2b0.jpg" width="800px">
 <br>
+
 ## 게시판
 ### 질문 게시판
 * num 컬럼으로 게시글 리스트 출력. (답글은 re_ref 컬럼으로 리스트 뿌려주기)
@@ -64,7 +65,7 @@
 * 이미지 업로드 및 `Ajax`를 활용한 댓글 등록 및 삭제 구현
 <img src="https://user-images.githubusercontent.com/63029576/95655019-5c0af800-0b3f-11eb-9ba3-13f1038cbb37.jpg" width="700px">
 <br>
-### 갤러리 게시판
+## 갤러리 게시판
 * `JavaScript`를 통해 모달창 구현
 <p> <img src="https://user-images.githubusercontent.com/63029576/95655027-70e78b80-0b3f-11eb-984a-184366aea6c5.jpg" width="700px"> 
   <img src="https://user-images.githubusercontent.com/63029576/95655028-747b1280-0b3f-11eb-8a61-8c3a657a295a.jpg" width="700px"> </p>
