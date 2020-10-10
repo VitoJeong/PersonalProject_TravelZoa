@@ -45,6 +45,37 @@
   * [후기 게시판](#후기-게시판)
 * [갤러리 게시판](#갤러리-게시판)
 * [이메일 보내기](#이메일-보내기)
+
 <br>
 
-
+## 회원가입 form
+* `jQuery`를 활용하여 아이디, 비밀번호, 비밀번호 확인 유효성 검사하기.
+* 유효성 검사를 하는 동시에 `Ajax`를 활용한 아이디 중복 확인 검사하기.
+* `KAKAO 우편번호 API`를 활용하여 주소 찾기 구현.
+<img src="https://user-images.githubusercontent.com/63029576/95654937-a3dd4f80-0b3e-11eb-818a-8acd015da2b0.jpg" width="800px">
+<br>
+## 게시판
+### 질문 게시판
+* num 컬럼으로 게시글 리스트 출력. (답글은 re_ref 컬럼으로 리스트 뿌려주기)
+* 검색기능 및 페이징 구현
+<p> <img src="https://user-images.githubusercontent.com/63029576/95655016-51e8f980-0b3f-11eb-929e-9da4d9eab3a2.jpg" width="700px"> 
+  <img src="./Project/Screenshots/all_board2.png" width="600px"> </p>
+<br>
+### 후기 게시판
+* 이미지 업로드 및 `Ajax`를 활용한 댓글 등록 및 삭제 구현
+<img src="https://user-images.githubusercontent.com/63029576/95655019-5c0af800-0b3f-11eb-9ba3-13f1038cbb37.jpg" width="700px">
+<br>
+### 갤러리 게시판
+* `JavaScript`를 통해 모달창 구현
+<p> <img src="https://user-images.githubusercontent.com/63029576/95655027-70e78b80-0b3f-11eb-984a-184366aea6c5.jpg" width="700px"> 
+  <img src="https://user-images.githubusercontent.com/63029576/95655028-747b1280-0b3f-11eb-8a61-8c3a657a295a.jpg" width="700px"> </p>
+<br>
+## 이메일 보내기
+* `javax.mail` 라이브러리와 SMTP를 활용하여 이메일 발송 기능 구현
+<p> <img src="https://user-images.githubusercontent.com/63029576/95655682-f9682b00-0b43-11eb-9fd0-d82235c9e2e8.jpg" width="700px"> 
+  <img src="https://user-images.githubusercontent.com/63029576/95655692-08e77400-0b44-11eb-9eae-65d88b901239.jpg" width="700px"> </p>
+<br>
+## 라이센스
+Copyright © 2020 Chang-Hwa Jeong. <br>
+This project is ITWILL Busan licensed.
+<hr>
