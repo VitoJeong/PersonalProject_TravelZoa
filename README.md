@@ -58,8 +58,7 @@
 ### 질문 게시판
 * num 컬럼으로 게시글 리스트 출력. (답글은 re_ref 컬럼으로 리스트 뿌려주기)
 * 검색기능 및 페이징 구현
-<p> <img src="https://user-images.githubusercontent.com/63029576/95655016-51e8f980-0b3f-11eb-929e-9da4d9eab3a2.jpg" width="700px"> 
-  <img src="./Project/Screenshots/all_board2.png" width="600px"> </p>
+<img src="https://user-images.githubusercontent.com/63029576/95655016-51e8f980-0b3f-11eb-929e-9da4d9eab3a2.jpg" width="700px"> 
 <br>
 ### 후기 게시판
 * 이미지 업로드 및 `Ajax`를 활용한 댓글 등록 및 삭제 구현
