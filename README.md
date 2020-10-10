@@ -37,7 +37,8 @@
 
 ## DB 구성 - ER Diagram
 <p align="center"> <img src="https://user-images.githubusercontent.com/63029576/95649874-e0974f80-0b1a-11eb-87d7-c4b497abab09.jpg" width="700px"> </p>
-## 기능구현 
+
+## 기능구현
 * [회원가입 form](#회원가입-form)
 * [게시판](#게시판)
   * [질문 게시판](#질문-게시판)
