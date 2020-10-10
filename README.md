@@ -1,6 +1,6 @@
 # TravelZoa / 2020.06 - 2020.07
 <p align="center"> Main Page Preview </p>
-<p align="center"> <img src="https://user-images.githubusercontent.com/63029576/95649151-07ec1d80-0b17-11eb-939b-0ed35856c927.jpg" width="600px"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/63029576/95649151-07ec1d80-0b17-11eb-939b-0ed35856c927.jpg" width="800px"> </p>
 <br>
 
 ## 주제
@@ -30,7 +30,20 @@
 ### 선정이유
 여행을 다녀온 후 자신만의 추억을 남기고, 후기나 정보들을 공유해 여행을 준비하는 사람들에게 더 나은 여행을 제공하기 위함
 ### 주요기능
-* 질문 게시판
+* QnA 게시판
 * 회원가입 / 로그인
 * 이미지를 첨부한 후기 / 갤러리 게시판
-* 메일 보내기
+* 이메일 보내기
+
+## DB 구성 - ER Diagram
+<p align="center"> <img src="tavelzoaDiagram" width="700px"> </p>
+## 기능구현 
+* [회원가입 form](#회원가입-form)
+* [게시판](#게시판)
+  * [질문 게시판](#질문-게시판)
+  * [후기 게시판](#후기-게시판)
+* [갤러리 게시판](#갤러리-게시판)
+* [이메일 보내기](#이메일-보내기)
+<br>
+
+
