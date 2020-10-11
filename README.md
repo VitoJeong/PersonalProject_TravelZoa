@@ -52,7 +52,7 @@
 * `jQuery`를 활용하여 아이디, 비밀번호, 비밀번호 확인 유효성 검사하기
 * 유효성 검사를 하는 동시에 `Ajax`를 활용한 아이디 중복 확인 검사하기
 * `KAKAO 우편번호 API`를 활용하여 주소 찾기 구현
-<img src="https://user-images.githubusercontent.com/63029576/95654937-a3dd4f80-0b3e-11eb-818a-8acd015da2b0.jpg" width="800px">
+<img src="https://user-images.githubusercontent.com/63029576/95654937-a3dd4f80-0b3e-11eb-818a-8acd015da2b0.jpg" width="700px">
 <br>
 
 ## 게시판
